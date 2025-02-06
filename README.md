@@ -11,13 +11,16 @@ A simple Python script I created out of frustration with my school making us com
 🔹 Download & install Python from [python.org](https://www.python.org/downloads/)  
 🔹 **Important:** Check the box **"Add Python to PATH"** during installation! ✅  
 
-### 2️⃣ Install Dependencies 📦  
+### 2️⃣ Install Firefox 🔥🦊
+🔹 Download & install Firefox from [www.mozilla.org](https://www.mozilla.org/en-US/firefox/new/)  
+
+### 3️⃣ Install Dependencies 📦  
 
 ```bash
 pip install selenium
 ```  
 
-### 3️⃣ Run the Script 🏃‍♂️💨  
+### 4️⃣ Run the Script 🏃‍♂️💨  
 🔹 Open a **terminal** or **command prompt** in the script’s directory 📂  
 🔹 Run:  
 ```bash
@@ -30,7 +33,9 @@ python AutoTyper.py
 
 ## Things to note
 
-Change the directory that is in line 8 and change it the the lesson that is in line 11 that you want to skip
+In line 8 change the directory to your firefox profile directory
+
+In line 11 change the url to the lesson that you want to auto-type
 
 Another thing to note is that for some reason it thinks tab is just 5 spaces (I might fix it)
 
@@ -40,7 +45,7 @@ On the first run you might have to signin to typing.com
 
 ### Windows 💻🪟
 
-Uhhhh Idk put it in the problems and I might never get to it 😀😎
+Uhhhh Idk put it in the issues and I might never get to it 😀😎
 
 ### Linux 🤵🐧
 
