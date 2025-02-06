@@ -34,6 +34,8 @@ Change the directory that is in line 8 and change it the the lesson that is in l
 
 Another thing to note is that for some reason it thinks tab is just 5 spaces (I might fix it)
 
+On the first run you might have to signin to typing.com
+
 ## Trobleshooting
 
 ### Windows 💻🪟
