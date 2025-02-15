@@ -44,7 +44,8 @@ try:
         for char in text_to_type:
             input_field.send_keys(char)
             time.sleep(0.1)
-
+        
+        time.sleep(.5)
         # Click the restart button at the end
         restart_button = WebDriverWait(driver, 10).until(
             EC.element_to_be_clickable((By.CLASS_NAME, "js-restart"))
